@@ -1,5 +1,13 @@
-### Hi there 👋
+### Alberto Vara
 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/albertovara/)
+
+:wave: Hi! I'm Alberto Vara, Software Crafter and Open Source Enthusiast
+
+<p align="center">
+<img src=https://devicon.dev/devicon.git/icons/python/python-original-wordmark.svg alt=python height="100"/>
+<img src=https://devicon.dev/devicon.git/icons/django/django-original.svg alt=django height="100"/>
+</p>
 <!--
 **avara1986/avara1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
